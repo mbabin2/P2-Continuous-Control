@@ -1,7 +1,7 @@
 [//]: # (Image References)
-[image1]: https://raw.githubusercontent.com/mbabin2/P2-Continuous_Control/master/images/anaconda.png "Conda"
-[image2]: https://raw.githubusercontent.com/mbabin2/P2-Continuous_Control/master/images/jupyter_home.png "Home"
-[image3]: https://raw.githubusercontent.com/mbabin2/P2-Continuous_Control/master/images/set_kernal.png "Kernel"
+[image1]: https://raw.githubusercontent.com/mbabin2/P2-Continuous-Control/master/images/anaconda.png "Conda"
+[image2]: https://raw.githubusercontent.com/mbabin2/P2-Continuous-Control/master/images/jupyter_home.png "Home"
+[image3]: https://raw.githubusercontent.com/mbabin2/P2-Continuous-Control/master/images/set_kernal.png "Kernel"
 
 # Udacity "DRLN" - Project 2 Submission
 
